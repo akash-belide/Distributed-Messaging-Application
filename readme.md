@@ -47,3 +47,6 @@ npm start
 npm run build && serve ./build
 ```
 
+---
+## Architecture
+![](frontend/public/architecture.png)
